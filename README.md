@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi there, I'm Nikita! 👋
 
-<!--
-**NikitaIlinov18/NikitaIlinov18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Frontend & Web Developer focused on building clean, responsive, and highly optimized web interfaces. I bridge the gap between pixel-perfect design and solid functional logic.
 
-Here are some ideas to get you started:
+### 🛠️ Tech Stack & Skills
+- **Languages:** JavaScript (ES6+), HTML5, CSS3 / SCSS
+- **CMS & Backend:** WordPress (Custom theme development, plugin integration, database management)
+- **Tools & Workflow:** Git / GitHub, Webpack, Responsive & Adaptive Design, Performance Optimization
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📈 What I'm focused on:
+- Developing custom interactive features using vanilla JavaScript (sliders, accordions, dynamic forms).
+- Crafting cross-browser, responsive layouts with smooth animations and layout consistency.
+- Optimizing database-driven platforms for speed and seamless user experience.
